@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cs5200-fall2018-Shengwei
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shengweiliu
+Implementation-Vendor-Id: edu.northeastern.cs5200
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/cs5200-fall2018-Shengwei
+Created-By: Maven Integration for Eclipse
+
